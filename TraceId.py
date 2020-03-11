@@ -1,5 +1,6 @@
 '''
 this script trace Id to public.xml and string.xml
+usage: keep focus on a String Id(eg:0x7F0B0917) and execute script
 version: jeb3.0
 '''
 
